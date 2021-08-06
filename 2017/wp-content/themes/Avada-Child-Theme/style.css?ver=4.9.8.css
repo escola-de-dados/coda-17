@@ -1,0 +1,224 @@
+/*
+Theme Name: Avada Child
+Description: Child theme for Avada theme
+Author: ThemeFusion
+Author URI: https://theme-fusion.com
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+
+/* Event Expresso */
+
+input.ee-ical-sbmt {
+    letter-spacing: 2px !important;
+    padding: 10px !important;
+    line-height: 17px !important;
+    font-size: 20px !important;
+    background: #dd3e3e !important;
+    text-transform: uppercase !important;
+    color: #ffffff !important;
+    transition: all .2s !important;
+    border-width: 0px !important;
+    border-style: solid !important;
+    border-color: #ffffff !important;
+    border-radius: 5px !important;
+}
+
+input.ee-ical-sbmt:hover {
+	background-color: #0a3644 !important;
+}
+
+input.ee-ical-sbmt:active {
+	background-color: #0a3644 !important;
+}
+
+#spco-go-to-step-payment_options-submit {
+    font-family: 'Montserrat' !important;
+    font-weight: 400 !important;
+    letter-spacing: 2px !important;
+    padding: 13px 29px !important;
+    line-height: 17px !important;
+    font-size: 14px !important;
+    background: #dd3e3e !important;
+    text-transform: uppercase !important;
+    color: #ffffff !important;
+    transition: all .2s !important;
+    border-width: 0px !important;
+    border-style: solid !important;
+    border-color: #ffffff !important;
+    border-radius: 3px !important;
+}
+
+#spco-go-to-step-payment_options-submit:hover {
+    background-color: #0a3644 !important;
+}
+
+#spco-go-to-step-payment_options-submit:active {
+    background-color: #0a3644 !important;
+}
+
+
+#spco-go-to-step-payment_options-btn {
+    font-family: 'Montserrat' !important;
+    font-weight: 400 !important;
+    letter-spacing: 2px !important;
+    padding: 13px 29px !important;
+    line-height: 17px !important;
+    font-size: 14px !important;
+    background: #dd3e3e !important;
+    text-transform: uppercase !important;
+    color: #ffffff !important;
+    transition: all .2s !important;
+    border-width: 0px !important;
+    border-style: solid !important;
+    border-color: #ffffff !important;
+    border-radius: 3px !important;
+    -webkit-transition: all .2s !important;
+    -moz-transition: all .2s !important;
+    -ms-transition: all .2s !important;
+    -o-transition: all .2s !important;
+    -webkit-border-radius: 3px !important;
+}
+
+#spco-go-to-step-payment_options-btn:hover {
+    background-color: #0a3644 !important;
+}
+
+#spco-go-to-step-payment_options-btn:active {
+    background-color: #0a3644 !important;
+}
+
+
+#spco-go-to-step-finalize_registration-submit {
+    font-family: 'Montserrat' !important;
+    font-weight: 400 !important;
+    letter-spacing: 2px !important;
+    padding: 13px 29px !important;
+    line-height: 17px !important;
+    font-size: 14px !important;
+    background: #dd3e3e !important;
+    text-transform: uppercase !important;
+    color: #ffffff !important;
+    transition: all .2s !important;
+    border-width: 0px !important;
+    border-style: solid !important;
+    border-color: #ffffff !important;
+    border-radius: 5px !important;
+    -webkit-transition: all .2s !important;
+    -moz-transition: all .2s !important;
+    -ms-transition: all .2s !important;
+    -o-transition: all .2s !important;
+    -webkit-border-radius: 3px !important;
+}
+
+#spco-go-to-step-finalize_registration-submit:hover {
+    background-color: #0a3644 !important;
+}
+
+#spco-go-to-step-finalize_registration-submit:active {
+    background-color: #0a3644 !important;
+}
+
+
+#ticket-selector-submit-1407-btn {
+    font-family: 'Montserrat' !important;
+    font-weight: 400 !important;
+    letter-spacing: 2px !important;
+    padding: 13px 29px !important;
+    line-height: 17px !important;
+    font-size: 14px !important;
+    background: #dd3e3e !important;
+    text-transform: uppercase !important;
+    color: #ffffff !important;
+    transition: all .2s !important;
+    border-width: 0px !important;
+    border-style: solid !important;
+    border-color: #ffffff !important;
+    border-radius: 3px !important;
+    -webkit-transition: all .2s !important;
+    -moz-transition: all .2s !important;
+    -ms-transition: all .2s !important;
+    -o-transition: all .2s !important;
+    -webkit-border-radius: 3px !important;
+}
+
+#ticket-selector-submit-1407-btn:hover {
+    background-color: #0a3644 !important;
+}
+
+#ticket-selector-submit-1407-btn:active {
+    background-color: #0a3644 !important;
+}
+
+
+.ticket-selector-submit-btn {
+    font-family: 'Montserrat' !important;
+    font-weight: 400 !important;
+    letter-spacing: 2px !important;
+    padding: 13px 29px !important;
+    line-height: 17px !important;
+    font-size: 14px !important;
+    background: #dd3e3e !important;
+    text-transform: uppercase !important;
+    color: #ffffff !important;
+    transition: all .2s !important;
+    border-width: 0px !important;
+    border-style: solid !important;
+    border-color: #ffffff !important;
+    border-radius: 3px !important;
+    -webkit-transition: all .2s !important;
+    -moz-transition: all .2s !important;
+    -ms-transition: all .2s !important;
+    -o-transition: all .2s !important;
+    -webkit-border-radius: 3px !important;
+}
+
+.ticket-selector-submit-btn:hover {
+    background-color: #0a3644 !important;
+}
+
+.ticket-selector-submit-btn:active {
+    background-color: #0a3644 !important;
+}
+
+#single-page-checkout .spco-attendee-wrap-fs .reg-page-form-field-wrap-pg + .reg-page-form-field-wrap-pg {
+	padding-top: 30px !important;
+	padding-bottom: 30px !important;
+}
+
+#spco-attendee_information-pg {
+    font-size: 15px !important;
+}
+
+#event_title {
+    font-size: 30px !important;
+}
+
+.post-content h5 {
+    font-size: 20px;
+}
+
+table th {
+    font-size: 15px;
+}
+tr.item {
+    font-size: 13px;
+}
+
+.ee-reg-form-attendee-dv .ee-reg-form-qstn-grp-title {
+    padding: 10px 0px;
+}
+
+
+input[type="text"], select, textarea {
+    font-size: 15px;
+}
+
+.ee-reg-qstn {
+    padding-bottom: 105px !important;
+}
+
+.ee-reg-qstn {
+    padding-bottom: 20px !important;
+}
